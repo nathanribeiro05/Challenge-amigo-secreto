@@ -65,7 +65,7 @@ $ npm start
   
  • Grupos de amigos: Permite organizar o amigo secreto de forma descontraída e sem erros, mesmo com participantes morando em locais diferentes.
 
-## Desenvolvedor :octocat:
+## Desenvolvedor:
 
 | [<img src="https://avatars.githubusercontent.com/nathanribeiro05" width=115><br><sub>Jonathan Ribeiro</sub>](https://github.com/nathanribeiro05) |   
 | :---: |
