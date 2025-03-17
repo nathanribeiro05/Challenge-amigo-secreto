@@ -47,7 +47,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/nathanribeiro05/Challenge-amigo-secreto
+git clone https://github.com/nathanribeiro05/Challenge-amigo-secreto/tree/main
 ```
 
 
