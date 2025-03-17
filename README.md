@@ -47,7 +47,7 @@
 No terminal, clone o projeto: 
 
 ```
-git clone // INSERIR LINK CHALLENGE GITHUB
+git clone https://github.com/nathanribeiro05/Challenge-amigo-secreto
 ```
 
 
